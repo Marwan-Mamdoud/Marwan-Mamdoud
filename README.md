@@ -1,6 +1,11 @@
 <h1 align="center">I'm Marwan Mamdouh</h1>
 <h3 align="center">Full-Stack Developer | Back-End Node.js Specialist</h3>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Mamdoud.Marwan-Mamdoud&left_color=darkgray&left_text=Profile%20views"  />
+</div>
+
+
 ---
 
 ### 🚀 About Me  
@@ -9,10 +14,6 @@
 - 👯 Looking to collaborate on: **Open Source Projects**  
 - 🎯 Career Goal: Specialize in **Back-End Development** (Node.js, Express.js, MongoDB, WebSocket)  
 - ⚡ Fun fact: I enjoy solving real-world problems with clean and scalable back-end solutions  
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Mamdoud.Marwan-Mamdoud&"  />
-</div>
 
 ---
 
@@ -24,9 +25,12 @@
 
 ### 📫 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/marwan-mamdouh-full-stack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:marwanmamdouh159@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
-<a href="https://wa.me/+201274847904" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/marwan-mamdouh-full-stack/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+<a href="mailto:marwanmamdouh159@gmail.com" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+<a href="https://wa.me/+201274847904" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</a>
 </p>
 
 ---
@@ -76,5 +80,15 @@
 </p>
 
 ---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ✨ *Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or just have a chat.*
