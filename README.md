@@ -10,6 +10,10 @@
 - 🎯 Career Goal: Specialize in **Back-End Development** (Node.js, Express.js, MongoDB, WebSocket)  
 - ⚡ Fun fact: I enjoy solving real-world problems with clean and scalable back-end solutions  
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Mamdoud.Marwan-Mamdoud&"  />
+</div>
+
 ---
 
 ### 📄 Resume & Portfolio  
