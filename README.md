@@ -3,9 +3,6 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Mamdoud.Marwan-Mamdoud&left_color=darkgray&left_text=Profile%20views"  />
-  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Mamdoud.Marwan-Mamdoud&"  />
-</div>
 </div>
 
 
