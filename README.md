@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marwan Mamdouh</h1>
+<h1 align="center">I'm Marwan Mamdouh</h1>
 <h3 align="center">Full-Stack Developer | Back-End Node.js Specialist</h3>
 
 ---
@@ -9,6 +9,12 @@
 - 👯 Looking to collaborate on: **Open Source Projects**  
 - 🎯 Career Goal: Specialize in **Back-End Development** (Node.js, Express.js, MongoDB, WebSocket)  
 - ⚡ Fun fact: I enjoy solving real-world problems with clean and scalable back-end solutions  
+
+---
+
+### 📄 Resume & Portfolio  
+- 📑 [View My CV](https://drive.google.com/file/d/1E19OM1rYasePulWnPbDabAKBRSK5lZRL/view?usp=drive_link)  
+- 🌐 [My Portfolio](https://poortfolio-nu.vercel.app/)  
 
 ---
 
