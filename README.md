@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/88b7a4b8-72f3-492e-8785-83dd471a471d" /><h1 align="center">I'm Marwan Mamdouh</h1>
+<h1 align="center">I'm Marwan Mamdouh</h1>
 <h3 align="center">Full-Stack Developer | Back-End Node.js Specialist</h3>
 
 <div align="left">
@@ -98,11 +98,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marwan-Mamdoud/Marwan-Mamdoud/output/pacman-contribution-graph.svg">
-</picture>
+
+<div align="center">
+  <img height="455" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1756658641~exp=1756662241~hmac=6d28dcdce8ea756db22788316366748c6e7aba83c8c5b9b337e8194eb73d4e8f&w=1060"  />
+</div>
 
 ###
 
