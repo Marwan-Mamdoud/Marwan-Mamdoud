@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/marwan-mamdouh-full-stack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="mailto:marwanmamdouh159@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
-<a href="https://wa.me/01274847904" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="30" /></a>
+<a href="https://wa.me/+201274847904" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="30" /></a>
 </p>
 
 ---
