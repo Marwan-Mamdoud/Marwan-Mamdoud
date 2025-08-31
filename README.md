@@ -1,70 +1,71 @@
-# Marwan Mamdouh
-
-**Full-Stack Developer | متخصص أكثر في الـ Back-End**
-
-📍 مصر  
-🔗 [Portfolio](ضع_رابط_البورتفوليو_لو_عندك)  
+<h1 align="center">Hi 👋, I'm Marwan Mamdouh</h1>
+<h3 align="center">Full-Stack Developer | Back-End Specialist</h3>
 
 ---
 
-##  تواصل معي
-- **LinkedIn**: [linkedin.com/in/اسمك](ضع_رابطك)  
-- **WhatsApp**: [wa.me/رقمك](ضع_رقمك)  
-- **GitHub**: [github.com/MarwanMamdouh](https://github.com/MarwanMamdouh)  
+### 🚀 About Me  
+- 🌍 Based in **Egypt**  
+- 🔭 Currently working on: **E-Commerce & Multilingual Web Apps**  
+- 🌱 Currently learning: **NestJS** & **Golang**  
+- 👯 Looking to collaborate on: **Open Source Projects**  
+- 🎯 Career Goal: Specialize in **Back-End Development** (Node.js, Express.js, MongoDB, WebSocket)  
+- ⚡ Fun fact: I enjoy solving real-world problems with clean and scalable back-end solutions  
 
 ---
 
-##  المهارات والتقنيات
-
-### **Back-End**
-- **Node.js / Express.js**
-- **NestJS**
-- **Go (Golang) – جاري التعمق**
-- **MongoDB / Mongoose**
-- **REST APIs / WebSockets**
-- **Authentication & Authorization (JWT, Sessions)**
-
-### **Front-End**
-- **Next.js (App Router & Pages Router)**
-- **React.js**
-- **Tailwind CSS**
-- **React Hooks & State Management**
-- **React Quill / rich editors**
-- **DND Kit / Sortable libraries**
-
-### **Dev Tools**
-- Git & GitHub
-- Postman
-- Cloudinary
-- CI/CD basics
-- Docker (مقدمة)
+### 📫 Connect with me  
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
+<a href="https://wa.me/your-number" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="30" /></a>
+</p>
 
 ---
 
-##  المشاريع البارزة
-| المشروع | الوصف |
-|----------|-------|
-| **E-Commerce App** | واجهة أمامية بـ Next.js وخلفية بـ Express.js + MongoDB (يشمل رفع صور Cloudinary، تسجيل دخول، إدارة المنتجات). |
-| **Multilingual Website** | موقع متعدد اللغات (عربي/إنجليزي) باستخدام **next-intl** مع ترتيب ملفات الترجمة. |
-| **CMS Library Integration** | تخصيص مكتبة لإدارة المحتوى وربطها مع مشروع فعلي. |
-| **Realtime Features** | تجربة الـ WebSocket في تطبيقات تواصل/إشعارات. |
+### 🛠️ Languages & Tools  
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
+</p>
 
 ---
 
-##  إنجازات وتوجهات
-- خبرة عملية في مشاريع **Full-Stack**، مع تركيز أوضح على الـ **Back-End**.  
-- بشتغل على تحسين مهاراتي كـ **Back-End Specialist**.  
-- بذاكر وأجهّز نفسي لمقابلات عمل (Node.js / Express.js / MongoDB / WebSocket).  
-- حالياً بتعلم **NestJS** وأيضاً **Golang** علشان أفتح مجال أكبر في السيرفر سايد.  
+### 📂 Featured Projects  
+- 🛒 **E-Commerce App** – Next.js front-end + Express.js & MongoDB back-end  
+- 🌐 **Multilingual Website** – Next.js + next-intl (Arabic/English support)  
+- 📝 **CMS Integration** – Customized CMS library for content management  
+- 🔔 **Realtime Features** – WebSocket-based notifications and live updates  
 
 ---
 
-##  اهتماماتي
-- حل المشكلات وبناء أنظمة Back-End scalable.  
-- التصميم النظيف والـ API design.  
-- متابعة الجديد في **JavaScript Ecosystem** و **Microservices**.  
-- المساهمة في مشاريع مفتوحة المصدر مستقبلاً.  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwanMamdouh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwanMamdouh&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanMamdouh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-✨ شكراً لزيارتك لصفحتي، لو حابب تتواصل معايا بخصوص شغل أو تعاون — راسلني مباشرة 🌟
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarwanMamdouh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or just have a chat.*
